@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ahira Input Nama</string>
+    <string name="lbl_nama">Masukan Nama Anda</string>
+    <string name="hint_nama">Silakan Masukan Nama Anda</string>
+    <string name="button_simpan">SIMPAN</string>
+    <string name="lbl_alamat">Masukan Alamat Anda</string>
+    <string name="hint_alamat">Silakan Masukan Alamat Anda</string>
+    <string name="button_reset">RESET</string>
+</resources>
